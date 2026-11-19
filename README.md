@@ -21,9 +21,3 @@ engineering, 275 avoidable (57% of escalations).
 
     pip install -r requirements.txt
     streamlit run app.py
-
-## Limitations
-
-This is a descriptive view only. It does not predict whether a new ticket
-should be escalated, has no tests, and does not look at response times,
-reopens or CSAT.
